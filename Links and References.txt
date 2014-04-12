@@ -1,0 +1,84 @@
+------------------------------------------------------------------------
+
+FILES
+
+LASER CUTTER ELECTRONICS LIBRARY nov_13
+http://tiny.cc/9a1w6w
+
+------------------------------------------------------------------------
+
+LINKS
+
+PANORAMICAL BUILD PHOTOS
+http://www.flickr.com/photos/52082118@N05/sets/72157633038558161/
+
+MUSIC FROM OUTER SPACE - General Electronics References (Synth-based)
+http://www.musicfromouterspace.com/
+
+BEAVIS AUDIO - General Electronics Reference (Guitar effect-based)
+http://www.beavisaudio.com/
+
+SLAGCOIN - Everything there is to know about constructing enclosures
+http://www.slagcoin.com/joystick.html
+
+INSTANT BOX - Enter dimensions, get PDF of laser cuttable pieces
+http://boxmaker.rahulbotics.com
+
+GEAR CREATOR - Creates gears. Have to trace shapes in Illustrator
+http://woodgears.ca/gear_cutting/template.html
+
+CEMENTIMENTAL - Largest collection of links related to circuit-bending
+http://www.cementimental.com/links.html
+
+------------------------------------------------------------------------
+
+FORUMS
+
+CHIPMUSIC.ORG - Chiptune (Gameboy, Nintendo, etc.) Forum. Lots of hardware info
+http://chipmusic.org/
+
+ELECTRO-MUSIC.COM - Just about everything you can think of. 
+http://www.electro-music.com/
+
+MUFFWIGGLER.COM - Analog synthesizer forum
+http://www.muffwiggler.com/
+
+EXPERIMENTALISTS ANONYMOUS - Weird electronic musical instrument forum
+http://experimentalistsanonymous.com/board/
+
+------------------------------------------------------------------------
+
+SHOPPING
+
+Mouser - Complicated. Cheap, but not always.
+http://www.mouser.com
+
+Jameco - Easy to use. Semi-expensive. Shipping cost is fucking ridiculous. 
+http://www.jameco.com/
+
+Sparkfun - SUPER EASY TO USE. Good shipping time. 
+http://www.sparkfun.com
+
+DJ Tech Tools - Sanwa Arcade buttons. $2.19/button
+http://store.djtechtools.com/products/arcade-buttons
+ 
+Mammoth Electronics - Knobs, buttons, switches, and aluminum enclosures
+http://www.mammothelectronics.com/
+
+Small Bear Electronics - Same as Mammoth. Located in NYC. Still charge shipping
+http://www.smallbearelec.com/servlet/StoreFront
+
+Thaishine (eBay) - Located in US. 3-4 day FREE shipping. CHEAP!
+http://stores.ebay.com/thaishine/
+
+Tayda2009 (eBay) - SUPER MEGA ULTRA CHEAP. 1-2 week FREE shipping
+http://stores.ebay.com/tayda2009
+
+Albany Fasters (eBay) - Hardware (4-40 screws). Great Price. 1-2 day free shipping
+http://stores.ebay.com/albanycountyfasteners/
+
+------------------------------------------------------------------------
+
+
+
+
